@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.EN.md) | [简体中文](README.md)
 
 # ChatGPT Copy Markdown + LaTeX
 
