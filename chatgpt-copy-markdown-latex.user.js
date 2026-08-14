@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ChatGPT Copy Markdown + LaTeX
+// @name         ChatGPT Copy Markdown + LaTeX 1111
 // @namespace    https://github.com/DavidLin039/chatgpt-copy-markdown-latex
 // @version      0.1.0
 // @description  Select ChatGPT content and copy clean Markdown with original LaTeX preserved.
