@@ -1,3 +1,5 @@
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 # ChatGPT Copy Markdown + LaTeX
 
 > **还在为 ChatGPT 里的公式一复制就变成乱码、碎掉的上下标、无法继续编辑的符号而苦恼？**
