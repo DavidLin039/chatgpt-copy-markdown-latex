@@ -128,6 +128,7 @@ Everything runs inside your browser.
 6. Open the **Tampermonkey** extension page
 7. Click **Get / Install**
 8. Finish the installation
+9.(important!!!) open Tampermonkey's setting(click **manage extention**) and enable **Allow User Scripts**
 
 ### Step 2: Install this script from GitHub
 
@@ -136,7 +137,8 @@ Everything runs inside your browser.
 3. On the script file page, click **Raw**
 4. Tampermonkey should automatically open the install page
 5. Click **Install**
-6. 
+
+
 ### Step 3: Refresh ChatGPT
 
 
